@@ -1,7 +1,8 @@
 h1,h2,h3,h4,h5,h6{
     font-size-adjust: 0.61;
     text-align: center;
-    transform: scaleX(1.1);
+    transform: scaleX(0.9) scaleY(1.2);
+    font-family: 'Wide Latin', 'Arial Black', Impact, Arial, sans-serif;
 }
 
 p,ul,ol,a{
@@ -29,6 +30,6 @@ p,ul,ol,a{
 }
 
 @keyframes mike{
-    0%,100%{transform: translateX(3);}
+    0%,100%{transform: translateX(3em);}
     50%{transform: translateX(0);}
 }
