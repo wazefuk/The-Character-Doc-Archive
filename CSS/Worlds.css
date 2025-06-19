@@ -1,0 +1,25 @@
+body{
+    font-size-adjust: 0.75;
+    background-color: azure;
+    display: grid;
+    font-weight: 500;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+    display: block;
+    font-family: 'Arial Black', Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+}
+
+.CringeOMeter{
+    font-size: small;
+    font-style: italic;
+    font-family: monospace;
+    opacity: 60%;
+    transform: scaleX(0.9) translateX(-20px);
+}
