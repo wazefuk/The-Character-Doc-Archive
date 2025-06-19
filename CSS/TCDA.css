@@ -29,6 +29,6 @@ p,ul,ol,a{
 }
 
 @keyframes mike{
-    0%,100%{transform: translateX(3);}
+    0%,100%{transform: translateX(3em);}
     50%{transform: translateX(0);}
 }
